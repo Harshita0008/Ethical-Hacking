@@ -1,6 +1,2 @@
 # Ethical-Hacking
-completed a eight weeks online training on Ethical Hacking. In the training, I learned Basics of Information Security, Computer 
-Networking and Web
-Development, Information Gathering and VAPT of some important vulnerabilities in the OWASP top 10, Automating VAPT, and 
-Documenting and Reporting
-Vulnerabilities.
+Tested the e-commerce platform(povided during the training) and found all possible vulnerabilities and loopholes in it, collected the relevant PoCs and then prepared a Detailed Developer Level Report. This project was a part of the Online Training on Ethical Hacking I did from Internshala Trainings.
